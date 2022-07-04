@@ -29,12 +29,18 @@ h1 {
 
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    /* text-align: center; */
 }
 
 .header-div {
     width: 50%;
     margin: 5px;
     padding: 20px;
+}
+
+.fast-text {
+    text-align: left;
+    padding-left: 40px;
 }
 
 .header-image {
@@ -66,6 +72,21 @@ h1 {
     background-position: right;
 }
 
+.dream-image {
+    width: 70%;
+    height: 40%;
+    text-align: left;
+}
+
+.image2 {
+    height: 500px;
+}
+
+.text-2nd {
+    text-align: left;
+    padding-right: 80px;
+}
+
 /*  */
 
 
@@ -92,6 +113,10 @@ h1 {
 
 .blue-broder {
     border-left: 6px solid rgb(68, 0, 255);
+}
+
+.exper-h1 {
+    padding-left: 70px;
 }
 
 /*  */
