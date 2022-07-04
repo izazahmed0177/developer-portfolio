@@ -69,4 +69,32 @@ h1 {
 /*  */
 
 
-.experienc-area {}
+.experienc-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.experient-item {
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 10px;
+    /* padding-left: 5px;
+   
+    margin-left: 10px;
+    margin-right: 10px; */
+    padding-right: 5px;
+
+}
+
+.orenge-broder {
+    border-left: 6px solid rgb(255, 51, 0);
+}
+
+.blue-broder {
+    border-left: 6px solid rgb(68, 0, 255);
+}
+
+/*  */
+footer p {
+    text-align: center;
+}
